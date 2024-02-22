@@ -9,7 +9,7 @@ Hi there! I'm Yusuf, a passionate Data Scientist with a background in Physics En
 
 ## 🎓 Education
 - BSc in Physics Engineering, Istanbul Technical University (2018 - 2023)
-- 
+  
 ## 🛠 Skills
 - **Programming Languages:** Python
 - **Frameworks and Tools:** ML, Jira, Docker, Kubernetes, TensorFlow, Keras, PyTorch, Gitlab
