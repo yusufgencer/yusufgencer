@@ -4,7 +4,6 @@
 Hi there! I'm Yusuf, a passionate Data Scientist with a background in Physics Engineering from Istanbul Technical University. I have a knack for solving problems by bringing different perspectives and excel in team environments. My journey in data science is fueled by my personal learning and internship experiences, and I'm eager to continue growing and achieving in this dynamic field.
 
 ## 📫 How to reach me
-- Email: yusufgencer99@gmail.com
 - LinkedIn: [linkedin.com/in/yusufgencer](https://linkedin.com/in/yusufgencer)
 
 ## 🎓 Education
